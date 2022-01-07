@@ -4,7 +4,7 @@
 - 👀 I’m interested in Software testing because I have analytical mind and I enjoy looking deeply into everything,so naturally I enjoy looking for a bugs.  I'm also very creative person so I can also improve quality of product with some good brand new idea.
 - 📚 I learned java basics till now,but I will continue learning java and other languages because I'm enthusiastic about learning and developing my skills.
 - ✍🏻 Outside of It world I am interested in learning to write with my left hand,I got inspiration and courage for that because I'm already using both hands while playing piano.
-- 🎶 I really enjoy music,I like watching horror and sci-fi movies,I like reading self development books and I like traveling and meeting new cultures. Till covid 19 I had opportunity to travel the Europe.My two favorite cities are Barcelona and Talin,and my favourite country is definitely Norway!
+- 🎶 I really enjoy music,I like watching horror and sci-fi movies,I like reading self development books and I like traveling and meeting new cultures. Till covid 19 I had opportunity to travel the Europe.My two favorite cities are Barcelona and Tallinn,and my favourite country is definitely Norway!
 - 📫 How to reach me: milicagacic97@gmail.com
 
 <!---
